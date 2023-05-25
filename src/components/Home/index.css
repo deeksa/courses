@@ -1,0 +1,6 @@
+.list1 {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  width: 100vw;
+}

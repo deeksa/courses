@@ -1,0 +1,13 @@
+.container10 {
+  display: flex;
+  padding: 4px;
+  margin: 10px;
+}
+.para {
+  color: white;
+}
+.image1 {
+  height: 10vh;
+  width: 5vw;
+  margin-right: 10px;
+}
